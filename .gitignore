@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.env
+vendor/
+*.DS_Store
+.idea/
+.envrc
